@@ -39,7 +39,8 @@
             // 
             // serviceInstaller1
             // 
-            this.serviceInstaller1.ServiceName = "MySutesVisiterService";
+            this.serviceInstaller1.Description = "Auto visiter my sites";
+            this.serviceInstaller1.ServiceName = "MySitesVisiterService";
             this.serviceInstaller1.StartType = System.ServiceProcess.ServiceStartMode.Automatic;
             // 
             // ProjectInstaller

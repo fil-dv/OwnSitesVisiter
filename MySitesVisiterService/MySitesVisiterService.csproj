@@ -52,11 +52,11 @@
     <Compile Include="ProjectInstaller.Designer.cs">
       <DependentUpon>ProjectInstaller.cs</DependentUpon>
     </Compile>
-    <Compile Include="MySutesVisiterService.cs">
+    <Compile Include="MySitesVisiterService.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="MySutesVisiterService.Designer.cs">
-      <DependentUpon>MySutesVisiterService.cs</DependentUpon>
+    <Compile Include="MySitesVisiterService.Designer.cs">
+      <DependentUpon>MySitesVisiterService.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -65,8 +65,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="MySutesVisiterService.resx">
-      <DependentUpon>MySutesVisiterService.cs</DependentUpon>
+    <EmbeddedResource Include="MySitesVisiterService.resx">
+      <DependentUpon>MySitesVisiterService.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ProjectInstaller.resx">
       <DependentUpon>ProjectInstaller.cs</DependentUpon>

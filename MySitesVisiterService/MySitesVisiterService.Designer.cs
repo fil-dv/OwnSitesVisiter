@@ -1,6 +1,6 @@
 ﻿namespace MySitesVisiterService
 {
-    partial class MySutesVisiterService
+    partial class MySitesVisiterService
     {
         /// <summary> 
         /// Required designer variable.

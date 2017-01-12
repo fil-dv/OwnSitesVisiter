@@ -10,9 +10,9 @@ using System.Threading.Tasks;
 
 namespace MySitesVisiterService
 {
-    public partial class MySutesVisiterService : ServiceBase
+    public partial class MySitesVisiterService : ServiceBase
     {
-        public MySutesVisiterService()
+        public MySitesVisiterService()
         {
             InitializeComponent();
         }
@@ -31,11 +31,11 @@ namespace MySitesVisiterService
         {
             try
             {
-                if (!EventLog.SourceExists("VisitService"))
+                if (!EventLog.SourceExists("MySitesVisiterService"))
                 {
-                    EventLog.CreateEventSource("VisitService", "VisitServiceLog");
+                    EventLog.CreateEventSource("MySitesVisiterService", "MySitesVisiterServiceLog");
                 }
-                MyEventLog.Source = "VisitService";
+                MyEventLog.Source = "MySitesVisiterService";
                 MyEventLog.WriteEntry(logMessage);
             }
             catch

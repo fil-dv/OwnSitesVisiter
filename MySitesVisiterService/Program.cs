@@ -17,7 +17,7 @@ namespace MySitesVisiterService
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
-                new MySutesVisiterService()
+                new MySitesVisiterService()
             };
             ServiceBase.Run(ServicesToRun);
         }

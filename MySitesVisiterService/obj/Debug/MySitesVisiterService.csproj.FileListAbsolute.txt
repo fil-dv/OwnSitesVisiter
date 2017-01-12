@@ -1,9 +1,8 @@
 D:\Dima\Programming\Services\OwnSitesVisiter\MySitesVisiterService\bin\Debug\MySitesVisiterService.exe.config
 D:\Dima\Programming\Services\OwnSitesVisiter\MySitesVisiterService\bin\Debug\MySitesVisiterService.exe
 D:\Dima\Programming\Services\OwnSitesVisiter\MySitesVisiterService\bin\Debug\MySitesVisiterService.pdb
-D:\Dima\Programming\Services\OwnSitesVisiter\MySitesVisiterService\obj\Debug\MySitesVisiterService.csprojResolveAssemblyReference.cache
-D:\Dima\Programming\Services\OwnSitesVisiter\MySitesVisiterService\obj\Debug\MySitesVisiterService.MySutesVisiterService.resources
 D:\Dima\Programming\Services\OwnSitesVisiter\MySitesVisiterService\obj\Debug\MySitesVisiterService.ProjectInstaller.resources
 D:\Dima\Programming\Services\OwnSitesVisiter\MySitesVisiterService\obj\Debug\MySitesVisiterService.csproj.GenerateResource.Cache
 D:\Dima\Programming\Services\OwnSitesVisiter\MySitesVisiterService\obj\Debug\MySitesVisiterService.exe
 D:\Dima\Programming\Services\OwnSitesVisiter\MySitesVisiterService\obj\Debug\MySitesVisiterService.pdb
+D:\Dima\Programming\Services\OwnSitesVisiter\MySitesVisiterService\obj\Debug\MySitesVisiterService.MySitesVisiterService.resources
